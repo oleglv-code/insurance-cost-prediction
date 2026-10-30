@@ -43,7 +43,6 @@ The MLPRegressor achieved better test set performance, with lower prediction err
 ```text
 insurance-cost-prediction/
 ├── insurance_prediction.ipynb
-├── insurance.csv
 └── README.md
 ```
 
