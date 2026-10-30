@@ -13,7 +13,7 @@ The dataset contains 1,338 observations and 7 columns.
 - **Target variable:** `charges` — individual medical insurance costs.
 - **Features:** age, sex, BMI, number of children, smoking status, and region.
 
-The dataset was obtained from Kaggle. Check the original dataset's licensing terms before redistributing the CSV file.
+The dataset was obtained from Kaggle.
 
 ## Methods
 
